@@ -147,12 +147,6 @@ public class Estimate_Heuristic {
 */
 
 
-            while(order.size()>=2)
-            {
-                Integer proposer= order.getFirst();
-
-            }
-
 
 
             Integer[] teammate= new Integer[n+1];
